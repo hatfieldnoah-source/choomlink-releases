@@ -1,5 +1,0 @@
-id=map-crash-024
-title=Map crash
-text=We're aware of the crash caused by opening the map. A fix is coming shortly.
-until=2026-11-06
-sig=nOSdKe+/T+6ZZcHdh+nkuy3O3+2DOLk9VPezInRWScXTDUwOACfAHaTPfjd+LcOn9lGgAawqQHxswkuEhDphWQ==
